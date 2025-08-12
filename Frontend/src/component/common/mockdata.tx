@@ -1,0 +1,72 @@
+// Mock data for advice articles
+  const adviceArticles = [
+    {
+      id: 1,
+      title: "Managing Academic Stress at KNUST",
+      category: "academics",
+      excerpt:
+        "Effective strategies to handle exam pressure and coursework demands specific to KNUST's rigorous academic environment.",
+      author: "Dr. Akosua Mensah",
+      date: "2023-10-15",
+      readTime: "5 min read",
+      image: "https://placehold.co/600x400/4f46e5/white?text=Academic+Stress",
+    },
+    {
+      id: 2,
+      title: "Balancing Studies and Social Life",
+      category: "wellness",
+      excerpt:
+        "Tips for maintaining a healthy social life while excelling in your studies at KNUST.",
+      author: "Kwame Asante",
+      date: "2023-09-22",
+      readTime: "4 min read",
+      image: "https://placehold.co/600x400/ec4899/white?text=Social+Balance",
+    },
+    {
+      id: 3,
+      title: "Career Planning for KNUST Graduates",
+      category: "career",
+      excerpt:
+        "Navigating job markets and building your professional network as a KNUST student.",
+      author: "Prof. Kwasi Boateng",
+      date: "2023-11-05",
+      readTime: "7 min read",
+      image: "https://placehold.co/600x400/0ea5e9/white?text=Career+Planning",
+    },
+    {
+      id: 4,
+      title: "Financial Management for Students",
+      category: "wellness",
+      excerpt:
+        "Budgeting tips and money-saving strategies for managing expenses during your time at KNUST.",
+      author: "Adwoa Gyamfi",
+      date: "2023-08-30",
+      readTime: "6 min read",
+      image: "https://placehold.co/600x400/10b981/white?text=Financial+Tips",
+    },
+    {
+      id: 5,
+      title: "Overcoming Homesickness",
+      category: "wellness",
+      excerpt:
+        "Coping strategies for students adjusting to life away from home.",
+      author: " Ali Emad",
+      date: "2023-07-18",
+      readTime: "4 min read",
+      image:
+        "https://collegegranthub.com/wp-content/uploads/2025/07/file.png-2025-07-18T143304.300Z.jpg",
+      link: "https://collegegranthub.com/blog/college-homesickness-coping-strategies-and-solutions/",
+    },
+    {
+      id: 6,
+      title: "Research Opportunities at KNUST",
+      category: "academics",
+      excerpt:
+        "How to get involved in research projects and gain valuable experience in your field of study.",
+      author: "Dr. Emmanuel Osei",
+      date: "2023-10-28",
+      readTime: "8 min read",
+      image: "https://placehold.co/600x400/8b5cf6/white?text=Research",
+      link: "https://ogr.knust.edu.gh/research/doing-research",
+    },
+  ];
